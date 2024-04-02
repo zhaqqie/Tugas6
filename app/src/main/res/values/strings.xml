@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 6 Zhaqqie</string>
+    <string name="gambar">Gambar</string>
+    <string name="namabrg">Nama Barang</string>
+    <string name="namabrang">Nama Barang</string>
+    <string name="deskripsi1">deskripsi1</string>
+    <string name="deskripsi2">deskripsi2</string>
+    <string name="deskripsi3">deskripsi3</string>
+    <string name="share">Share</string>
+</resources>
